@@ -12,3 +12,6 @@ GMAIL_PASSWORD: Your_Password
 ADMIN_NAME: admin
 ADMIN_EMAIL: admin@example.com
 ADMIN_PASSWORD: kukeito1234
+USER_NAME: baum
+USER_EMAIL: baum@example.com
+USER_PASSWORD: baum1234
