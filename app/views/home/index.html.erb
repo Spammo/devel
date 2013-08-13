@@ -1,8 +1,2 @@
 <h3>Home</h3>
-<% if current_user.admin? %>
-  <% @users.each do |user| %>
-    <p>User: <%=link_to user.name, user %></p>
-  <% end %>
-<% else %>
   <p>notadmin</p>
-<% end %>
